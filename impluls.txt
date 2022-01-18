@@ -1,6 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper bibendum nisi, at sagittis sapien ullamcorper id. Curabitur dictum varius dictum. Morbi mauris mi, dapibus quis sagittis vitae, pulvinar vitae nulla. Fusce vel magna ante. Vivamus vulputate in sapien in tristique. Donec fringilla gravida euismod. Aliquam volutpat sit amet felis non tincidunt. Nulla aliquet non lorem sed porttitor.
-
-Proin sollicitudin porttitor pharetra. Sed mollis odio leo, a cursus nunc pulvinar id. 
-Aliquam erat volutpat. Sed eu augue a erat viverra mattis et vitae neque. Suspendisse convallis purus a turpis porta sodales.
-Ut lobortis, nulla ut rhoncus varius, erat nibh eleifend tellus, at ullamcorper massa nulla id sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin velit ipsum, ullamcorper vitae elementum vel, mollis elementum ante. Donec at mi fringilla nisi pulvinar suscipit et sed mauris. Duis elit enim, sagittis eu luctus quis, consequat a sem. Nullam mi ipsum, dapibus ac elit a, iaculis sagittis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet felis in dui suscipit elementum. 
-Aenean ante mi, finibus vel interdum tristique, tempus at nisl. Mauris sagittis libero elit, in pharetra nulla mattis sit amet.
+<<<<<<< HEAD
+Izmena remote obavljena!
+>>>>>>> 1bb03f9e9d445823bf8a8e051989f028c07fa991
