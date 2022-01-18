@@ -1,1 +1,3 @@
-izmena na lokalu obavljena
+<<<<<<< HEAD
+Izmena remote obavljena!
+>>>>>>> 1bb03f9e9d445823bf8a8e051989f028c07fa991
